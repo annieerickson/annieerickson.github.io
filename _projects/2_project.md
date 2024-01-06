@@ -4,7 +4,7 @@ title: modeling animal behavior
 description: investigating the behavioral repertoire of the praying mantis
 img: assets/img/mantis.png
 #vidID: mantis_movie.mp4
-importance: 2
+importance: 3
 category: work
 ---
 

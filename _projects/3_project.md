@@ -3,7 +3,7 @@ layout: page
 title: Modeling the COVID-19 pandemic
 description: using machine learning to predict disease outcomes
 img: assets/img/nyc_alpha_opt_10_day_all_data.png
-importance: 3
+importance: 2
 category: work
 ---
 
@@ -18,3 +18,9 @@ At the start of the pandemic, the members of the Caltech community enrolled in t
 <div class="caption">
     Mapping the deaths per US county for a ten day period in April, 2020
 </div>
+
+Related Links:
+
+[https://www.caltech.edu/about/news/students-use-ai-better-prediction-covid-19-model](https://www.caltech.edu/about/news/students-use-ai-better-prediction-covid-19-model)
+[https://www.caltech.edu/about/news/caltechs-ai-driven-covid-19-model-routinely-outperforms-competitors](https://www.caltech.edu/about/news/caltechs-ai-driven-covid-19-model-routinely-outperforms-competitors)
+[https://magazine.caltech.edu/post/covid-19-research-update](https://magazine.caltech.edu/post/covid-19-research-update)
