@@ -20,7 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD candidate at the California Institute of Technology (Caltech) in Neurobiology, advised by [Dr. Michael Dickinson](https://dickinsonlab.caltech.edu/).  I am interested in understanding the neural basis and behavior of complex systems.
 
-My research has focused on discovering the neural circuits that control flight, an interdisciplinary project that has spanned the fields of neuroscience, aerodynamics, biomechanics, machine learning, and robotics.  For more details of my work, please see my [project page](/projects/1_project/) or my talk at the [COSYNE conference](https://www.youtube.com/live/ebl5bV6X9bc?si=JSyr_oSlFrt3S8sP&t=2681).  Or, if you want to try hijacking a fly's altitude control system, try out the [fly game](/fly-game/).
+My research has focused on discovering the neural circuits that control flight, an interdisciplinary project that has spanned the fields of neuroscience, aerodynamics, biomechanics, machine learning, and robotics.  For more details of my work, please see my [project page](/projects/1_project/) or my talk at the [COSYNE conference](https://www.youtube.com/live/ebl5bV6X9bc?si=JSyr_oSlFrt3S8sP&t=2681).  
+<!-- Or, if you want to try hijacking a fly's altitude control system, try out the [fly game](/fly-game/). -->
 
 <!-- You may be asking why fruit flies? Why flight?
 Flies have a remarkably tractable nervous system- we can genetically isolate single neurons in the brain and image, activate, or silence these neurons.  And now, we also have access to the recently released full connectome of every synapse in the brain and ventral nerve cord. 
