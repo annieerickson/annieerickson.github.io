@@ -3,7 +3,7 @@ layout: page
 title: Modeling the COVID-19 pandemic
 description: using machine learning to predict disease outcomes
 img: assets/img/nyc_alpha_opt_10_day_all_data.png
-importance: 2
+importance: 3
 category: work
 ---
 
