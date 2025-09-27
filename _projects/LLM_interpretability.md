@@ -113,4 +113,6 @@ These experiments show 1.) we can intervene on the representation of the user's 
 
 This study was done in Gemma-2B-IT.
 
+Code for this project can be found at the [EmpathySteering](https://github.com/annieerickson/EmpathySteering) repository.
+
 <!-- This work is ongoing--stay tuned for more updates! 🤖 -->
