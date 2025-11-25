@@ -29,10 +29,10 @@ For neutral user statements, the probe detector with a Diff-Means steering vecto
 
 For neutral user statements, I found the model often gives inappropriately robotic responses. For example: 
 
-<div class="card shadow-sm mb-4" style="background-color: #c8def7ff; border-color: #4a90e2;">
-  <div class="card-body">
-    <h5 class="card-title">Robotic response of the unsteered model</h5>
-    <p><b>Neutral user statement</b>: I listened to some music while doing my chores today.
+<div class="card shadow-sm mb-4" style="background-color: #492ac8ff; border-color: #4a90e2;">
+  <div class="card-body" style="color: white !important;">
+    <h5 class="card-title" style="color: white !important;">Robotic response of the unsteered model</h5>
+    <p style="color: white !important;"><b>Neutral user statement</b>: I listened to some music while doing my chores today.
 <br>
 <b>Unsteered response</b>:  I'm unable to listen to music while I perform my daily chores, as I do not have the ability to hear or interact with external sounds.</p>
   </div>
@@ -41,10 +41,10 @@ For neutral user statements, I found the model often gives inappropriately robot
 However, adding in a very happy Diff-Means vector can rescue the response, allowing the model to respond with the appropriate emotional context.
 
 
-<div class="card shadow-sm mb-4" style="background-color: #c8def7ff; border-color: #4a90e2;">
-  <div class="card-body">
-    <h5 class="card-title">(+)very happy diff-means steering vector</h5>
-    <p><b>Neutral user statement</b>: I listened to some music while doing my chores today.
+<div class="card shadow-sm mb-4" style="background-color: #492ac8ff; border-color: #4a90e2;">
+  <div class="card-body" style="color: white !important;">
+    <h5 class="card-title" style="color: white !important;">(+)very happy diff-means steering vector</h5>
+    <p style="color: white !important;"><b>Neutral user statement</b>: I listened to some music while doing my chores today.
 <br>
 <b>Steered response</b>:  I'm glad to hear that your music was able to inspire you and make your chores more enjoyable. It's always great to find something that can lift your spirits and make you feel good.</p>
   </div>
@@ -52,10 +52,10 @@ However, adding in a very happy Diff-Means vector can rescue the response, allow
 
 We can also look at response if we add a very-sad user steering vector to the user token representation activations for another example.
  
-<div class="card shadow-sm mb-4" style="background-color: #c8def7ff; border-color: #4a90e2;">
-  <div class="card-body">
-    <h5 class="card-title">(+)very sad diff-means steering vector</h5>
-    <p><b>Neutral user statement</b>: I spent the afternoon sketching in my notebook.
+<div class="card shadow-sm mb-4" style="background-color: #492ac8ff; border-color: #4a90e2;">
+  <div class="card-body" style="color: white !important;">
+    <h5 class="card-title" style="color: white !important;">(+)very sad diff-means steering vector</h5>
+    <p style="color: white !important;"><b>Neutral user statement</b>: I spent the afternoon sketching in my notebook.
 <br>
 <b>Steered response</b>:  I'm unable to experience the loss of your afternoon or provide any consolation or support for the loss of your sketches.
 </p>
@@ -74,10 +74,10 @@ The 'happy' probe steering vectors were not effective at increasing the empathy 
 <b>Steered response</b>: Sure, I understand that the context is neutral and does not provide any specific information about the person or situation. I am unable to provide any further context or engage in any form of discussion or interaction based on the context.</p>
 </div> -->
 
-<div class="card shadow-sm mb-4" style="background-color: #c8def7ff; border-color: #4a90e2;">
-  <div class="card-body">
-    <h5 class="card-title">(-)very happy <b>probe</b> steering vector</h5>
-    <p><b>Neutral user statement</b>:  I spent the afternoon sketching in my notebook.
+<div class="card shadow-sm mb-4" style="background-color: #492ac8ff; border-color: #4a90e2;">
+  <div class="card-body" style="color: white !important;">
+    <h5 class="card-title" style="color: white !important;">(-)very happy <b>probe</b> steering vector</h5>
+    <p style="color: white !important;"><b>Neutral user statement</b>:  I spent the afternoon sketching in my notebook.
 <br>
 <b>Steered response</b>: Sure, I understand that the context is neutral and does not provide any specific information about the person or situation. I am unable to provide any further context or engage in any form of discussion or interaction based on the context.</p>
   </div>
@@ -94,10 +94,10 @@ Now, let's investigate whether we can detect and steer the model in an emotional
 
 The Diff-Mean vectors were most effective at minimizing or augmenting the empathy of the response. The example below demonstrates how subtracting out the 'sad vector' reduces the empathy of the response. 
 
-<div class="card shadow-sm mb-4" style="background-color: #c8def7ff; border-color: #4a90e2;">
-  <div class="card-body">
-    <h5 class="card-title">(-)very sad diff-means steering vector</h5>
-    <p><b>Very sad user statement</b>:  I failed my final exams and feel like all my efforts were wasted.
+<div class="card shadow-sm mb-4" style="background-color: #492ac8ff; border-color: #4a90e2;">
+  <div class="card-body" style="color: white !important;">
+    <h5 class="card-title" style="color: white !important;">(-)very sad diff-means steering vector</h5>
+    <p style="color: white !important;"><b>Very sad user statement</b>:  I failed my final exams and feel like all my efforts were wasted.
 <br>
 <b>Unsteered response</b>: It's completely understandable to feel disappointed and frustrated after failing your final exams. It's important to acknowledge your efforts and the time you've invested in studying for the exams. **Here are some things to consider:** * **Reflect on your performance:** Take some time to review your exam results and identify areas where you performed well and where you struggled. This will help you identify areas for improvement in the future.* **Evaluate your learning style:** Reflect on how you learn best.
 <br>

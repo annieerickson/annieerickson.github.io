@@ -32,3 +32,11 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Farhang": 
+  - firstname: ['Alexander', 'A. R.']
+    url: https://alexfarhang.github.io/
+
+"Yue": 
+  - firstname: ['Yisong', 'Y.']
+    url: https://www.yisongyue.com/
