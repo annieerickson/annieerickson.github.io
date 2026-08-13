@@ -23,7 +23,7 @@ Flies have a remarkably tractable nervous system- we can genetically isolate sin
 
 Given that we know the circuit components, connections, and possess the tools to record and manipulate these components, we have a unique opportunitity to study the circuit computations of complex systems. 
 
-Fruit flies also fly! Flying requires a unique set of controls wholly unfamiliar to animals stuck to the ground by gravity.  We can use our tools for quantitative behavioral and circcuit analysis to study how animals control their locomotion in 3D space.
+Fruit flies also fly! Flying requires a unique set of controls wholly unfamiliar to animals stuck to the ground by gravity.  We can use our tools for quantitative behavioral and circuit analysis to study how animals control their locomotion in 3D space.
 
 Flies execute impressive aerial maneuvers in only tens of milliseconds with remarkably subtle changes to wing motion. This behavior requires a nervous system that can process and send sensory information to downstream motor effectors rapidly and efficiently. I study a specific class of neurons called descending neurons which--although relatively few in number--are solely responsible for the transmission of information from the brain to the appropriate flight motor centers in the ventral nerve cord. In order to study the descending control of flight, I use optogenetics to activate specific classes of descending neurons while measuring the resulting changes in wing kinematics as captured by three high-speed videos.
 
