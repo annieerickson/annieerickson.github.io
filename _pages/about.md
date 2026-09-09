@@ -30,15 +30,10 @@ Given that we know the circuit components, connections, and possess the tools to
 
 Fruit flies also fly! Flying requires a unique set of controls wholly unfamiliar to animals stuck to the ground by gravity.  We can use our tools for circuit and quantitative behavioral analysis to study how animals control their locomotion in 3D space. -->
 
-<!-- use data to stay healthy biosensors health and fitness tracking and insights -->
 
-I am also interested in how we can leverage AI to accelerate science and benefit human health. Most recently, I have worked on a [project](/publications/) which leverages agentic systems to help scientists create hierarchical Bayesian models of their data. 
+I am also interested in how we can leverage AI to accelerate science and benefit human health. Most recently, I have worked on a [project](/publications/) which employs agentic systems to help scientists create hierarchical Bayesian models of their data. 
 For more details of other research directions such as AI interpretability and safety, please see my [interpretability project page](/projects/LLM_interpretability) and [steering preprint](/publications/).
 
-
-<!-- AI for Science, AI interpretability  -->
-
-<!-- in the 'neural' circuits of intelligent machines. For more information, see my project page of ongoing research on [understanding and steering large language models](/projects/LLM_interpretability). -->
 
 In my career, I have also studied motivation and learning circuits in the hippocampus at the University of California, San Francisco (UCSF) and the neuromodulation of cognition at Cornell University.  Outside the lab, you can find me growing [dragon fruit cacti](/assets/img/dragonfruit.png) or hiking in the San Gabriels.
 
